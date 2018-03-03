@@ -221,3 +221,11 @@ padding-left: 3.8rem;
 	color: #fed136;
 }
 /* End */
+/* valid email */
+.outline:invalid{
+	border: 2px solid rgb(255, 0, 0);
+}
+.outline:valid{
+	border: 2px solid rgb(0, 175, 15);
+}
+/* end */
