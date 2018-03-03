@@ -223,9 +223,9 @@ padding-left: 3.8rem;
 /* End */
 /* valid email */
 .outline:invalid{
-	border: 2px solid rgb(255, 0, 0);
+	border: 0.125rem solid rgb(255, 0, 0);
 }
 .outline:valid{
-	border: 2px solid rgb(0, 175, 15);
+	border: 0.125rem solid rgb(0, 175, 15);
 }
 /* end */
